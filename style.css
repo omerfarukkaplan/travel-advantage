@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+.card {
+  background: #222;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+input, button {
+  width: 90%;
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  background: gold;
+  border: none;
+  cursor: pointer;
+}
+.hidden {
+  display: none;
+}
